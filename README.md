@@ -26,5 +26,5 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 
 
-https://github.com/2Meng/Social-Network-API/assets/91503750/e9df81fc-419c-4f0a-a1cd-f84e16557d59
+https://github.com/2Meng/Social-Network-API/assets/91503750/029a7a21-069c-4b09-ae7f-475650ba4732
 
